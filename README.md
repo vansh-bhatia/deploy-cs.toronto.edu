@@ -38,8 +38,10 @@ Follow these steps to deploy:
 
 ## License
 
-This script is open-source and can be freely modified or distributed. Feel free to tailor it to your specific deployment needs!
+This script is open-source and can be freely modified or distributed. Feel free to tailor it to your specific deployment needs! (MIT License)
 
-- Vansh :)
+
+
+\- Vansh :)
 
 
